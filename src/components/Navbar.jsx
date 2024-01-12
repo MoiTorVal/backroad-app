@@ -1,6 +1,6 @@
 import React from "react";
 
-import { pageLinks, socialLinks } from "./data";
+import { pageLinks, socialLinks } from "../data";
 import logo from "../images/logo.svg";
 
 const Navbar = () => {
